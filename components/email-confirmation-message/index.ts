@@ -1,0 +1,1 @@
+export { EmailConfirmationMessage } from './EmailConfirmationMessage';

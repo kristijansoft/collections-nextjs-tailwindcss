@@ -1,0 +1,22 @@
+[
+  {
+    "brand": "bullstrap",
+    "styles": {
+      "colors": {
+        "primary": {
+          "100": "#F8F3E7",
+          "200": "#CE9440",
+          "300": "#F3CFB8"
+        },
+        "secondary": "#F8F3E7",
+        "textColor": {
+          "primary": "white",
+          "secondary": "black"
+        }
+      },
+      "font": {
+        "family": "Poppins"
+      }
+    }
+  }
+]
